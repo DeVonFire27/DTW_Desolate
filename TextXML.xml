@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animation_List>
+  <Animation loop = "1">
+    <ImgPath>source/TestingSprite.png</ImgPath>
+    <AniName>Test</AniName>
+    <Frame duration = "0.15">
+      <Event>none</Event>
+      <rendRect x ="28" y="52" width="63" heigth="57"/>
+      <collRect x ="17" y="14" width="33" heigth="38"/>
+      <actRect x ="0" y="0" width="0" heigth="0"/>
+      <anchor x="28" y="52"/>
+      <weaponPoint x="0" y="0"/>
+    </Frame>
+    <Frame duration = "0.15">
+      <Event>none</Event>
+      <rendRect x ="106" y="52" width="60" heigth="55"/>
+      <collRect x ="17" y="14" width="33" heigth="38"/>
+      <actRect x ="0" y="0" width="0" heigth="0"/>
+      <anchor x="28" y="52"/>
+      <weaponPoint x="0" y="0"/>
+    </Frame>
+    <Frame duration = "0.15">
+      <Event>none</Event>
+      <rendRect x ="184" y="52" width="59" heigth="55"/>
+      <collRect x ="17" y="14" width="33" heigth="38"/>
+      <actRect x ="0" y="0" width="0" heigth="0"/>
+      <anchor x="28" y="52"/>
+      <weaponPoint x="0" y="0"/>
+    </Frame>
+    <Frame duration = "0.15">
+      <Event>none</Event>
+      <rendRect x ="258" y="52" width="62" heigth="57"/>
+      <collRect x ="17" y="14" width="33" heigth="38"/>
+      <actRect x ="0" y="0" width="0" heigth="0"/>
+      <anchor x="28" y="52"/>
+      <weaponPoint x="0" y="0"/>
+    </Frame>
+  </Animation>
+
+  <Animation loop = "1">
+    <ImgPath>source/TestingSprite2.png</ImgPath>
+    <AniName>Test2</AniName>
+    <Frame duration = "0.1">
+      <Event>none</Event>
+      <rendRect x ="2" y="0" width="49" heigth="92"/>
+      <collRect x ="13" y="10" width="29" heigth="63"/>
+      <actRect x ="0" y="0" width="0" heigth="0"/>
+      <anchor x="28" y="91"/>
+      <weaponPoint x="0" y="0"/>
+    </Frame>
+    <Frame duration = "0.1">
+      <Event>none</Event>
+      <rendRect x ="52" y="0" width="75" heigth="92"/>
+      <collRect x ="15" y="14" width="42" heigth="63"/>
+      <actRect x ="0" y="0" width="0" heigth="0"/>
+      <anchor x="38" y="91"/>
+      <weaponPoint x="0" y="0"/>
+    </Frame>
+    <Frame duration = "0.1">
+      <Event>none</Event>
+      <rendRect x ="125" y="0" width="85" heigth="92"/>
+      <collRect x ="14" y="17" width="56" heigth="63"/>
+      <actRect x ="0" y="0" width="0" heigth="0"/>
+      <anchor x="44" y="91"/>
+      <weaponPoint x="0" y="0"/>
+    </Frame>
+    <Frame duration = "0.1">
+      <Event>none</Event>
+      <rendRect x ="211" y="0" width="87" heigth="92"/>
+      <collRect x ="19" y="12" width="46" heigth="63"/>
+      <actRect x ="0" y="0" width="0" heigth="0"/>
+      <anchor x="47" y="91"/>
+      <weaponPoint x="0" y="0"/>
+    </Frame>
+    <Frame duration = "0.1">
+      <Event>none</Event>
+      <rendRect x ="300" y="0" width="49" heigth="92"/>
+      <collRect x ="15" y="12" width="30" heigth="63"/>
+      <actRect x ="0" y="0" width="0" heigth="0"/>
+      <anchor x="28" y="91"/>
+      <weaponPoint x="0" y="0"/>
+    </Frame>
+    <Frame duration = "0.1">
+      <Event>none</Event>
+      <rendRect x ="350" y="0" width="68" heigth="92"/>
+      <collRect x ="14" y="15" width="50" heigth="63"/>
+      <actRect x ="0" y="0" width="0" heigth="0"/>
+      <anchor x="36" y="91"/>
+      <weaponPoint x="0" y="0"/>
+    </Frame>
+    <Frame duration = "0.1">
+      <Event>none</Event>
+      <rendRect x ="420" y="0" width="87" heigth="92"/>
+      <collRect x ="13" y="12" width="61" heigth="63"/>
+      <actRect x ="0" y="0" width="0" heigth="0"/>
+      <anchor x="45" y="91"/>
+      <weaponPoint x="0" y="0"/>
+    </Frame>
+    <Frame duration = "0.1">
+      <Event>none</Event>
+      <rendRect x ="511" y="0" width="87" heigth="92"/>
+      <collRect x ="13" y="14" width="64" heigth="63"/>
+      <actRect x ="0" y="0" width="0" heigth="0"/>
+      <anchor x="46" y="91"/>
+      <weaponPoint x="0" y="0"/>
+    </Frame>
+  </Animation>
+</Animation_List>
